@@ -1,0 +1,12 @@
+names:
+- ants
+nc: 1
+roboflow:
+  license: Public Domain
+  project: anttracker
+  url: https://universe.roboflow.com/qceiabd/anttracker/dataset/1
+  version: 1
+  workspace: qceiabd
+test: D:\Proyects\F-trantcker\AntTracker-1\test\images
+train: D:\Proyects\F-trantcker\AntTracker-1\train\images
+val: D:\Proyects\F-trantcker\AntTracker-1\valid\images
