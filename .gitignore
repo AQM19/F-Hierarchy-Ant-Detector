@@ -8,3 +8,7 @@
 
 # Archvios de assets
 assets/videos/*
+
+# Archivos de runs
+runs/*
+!runs/train/
