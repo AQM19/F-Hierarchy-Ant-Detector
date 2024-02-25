@@ -3,7 +3,6 @@
 # Entorno virtual
 .venv/
 
-# Archivo de variables de entorno
-.env
-assets
-AntTracker-1/runs
+# Archvios de assets
+assets/images/*
+assets/videos/*

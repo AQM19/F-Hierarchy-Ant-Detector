@@ -1,0 +1,17 @@
+names:
+- Egg
+- Medior
+- Minor
+- Princess
+- Queen
+- Soldier
+nc: 6
+roboflow:
+  license: Public Domain
+  project: hierarchy-ant-model
+  url: https://universe.roboflow.com/qceiabd/hierarchy-ant-model/dataset/1
+  version: 1
+  workspace: qceiabd
+test: D:\Proyects\F-trantcker\Hierarchy-Ant-Model-1\test\images
+train: D:\Proyects\F-trantcker\Hierarchy-Ant-Model-1\train\images
+val: D:\Proyects\F-trantcker\Hierarchy-Ant-Model-1\train\images
