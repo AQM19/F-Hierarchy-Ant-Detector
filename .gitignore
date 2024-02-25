@@ -3,6 +3,8 @@
 # Entorno virtual
 .venv/
 
+# Variables de entorno
+.env
+
 # Archvios de assets
-assets/images/*
 assets/videos/*
